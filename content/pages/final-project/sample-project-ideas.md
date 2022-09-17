@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of possible project ideas on design, building,
+  art, coding, and open problems.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the research-driven focus of
+  the course and how aspects of the course support students in experiencing research.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

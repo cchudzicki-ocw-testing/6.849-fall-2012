@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Locked Linkages'
 uid: 9631a66a-55cf-940a-72c3-a1dd0aa3dc53
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture explores algorithms for unfolding 2D chains including ODE, pointed pseudotriangulations, and the energy method. Locking rules are then extrapolated to address Spherical Carpenter's Rule, infinitesimally locked linkages, and locked 3D chains.
 
 **Speaker:** Erik Demaine
+

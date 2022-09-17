@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 1: Overview'
 uid: 1ff98ea1-096a-7585-c329-d94e0bc32b65
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces the inverted structure of the class, the topics covered in the course and its motivation. Examples of applications are provided, along with types and charaterizations of geometric objects, and foldability and design questions.
 
 **Speaker:** Erik Demaine
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Single-Vertex Crease Patterns'
 uid: 1603733c-609c-7903-3c20-88b144d09d73
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture explores the local behavior of a crease pattern and characterizing flat-foldability of single-vertex crease patterns. Kawasaki's theorem and Maekawa's theorem are presented as well as the tree method with Robert Lang's TreeMaker.
 
 **Speaker:** Erik Demaine
+

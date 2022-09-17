@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Protein Chains'
 uid: 55e0b22b-ad2f-f7cb-29fe-5f04e732832f
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on the folding of the backbone chain of proteins in relation to fixed-angle linkages. Four problems types (span, flattening, flat-state connectivity, locked) are presented, followed by the canonicalization of a producible chain.
 
 **Speaker:** Erik Demaine
+

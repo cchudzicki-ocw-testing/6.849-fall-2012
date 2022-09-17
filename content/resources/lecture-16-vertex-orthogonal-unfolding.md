@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Vertex & Orthogonal Unfolding'
 uid: e705388d-ec0a-c756-7a51-2648dce64949
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture continues with open problems involving general unfoldings of polyhedra and proof of vertex unfolding using construction of facet-paths. Approaches for unfolding orthogonal polyhedra, grid unfolding, and folding convex polyhedra are presented.
 
 **Speaker:** Erik Demaine
+

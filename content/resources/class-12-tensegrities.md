@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 12: Tensegrities'
 uid: 1452c2a3-04f1-f670-8df3-ed4cb6356242
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class covers several examples of tensegrity structures and in Freeform software. A question on linear programming's application to the motions and stresses is addressed.
 
 **Speaker:** Erik Demaine
+

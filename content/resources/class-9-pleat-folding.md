@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 9: Pleat Folding    '
 uid: 9d1a3d37-ba91-b6cb-3ed1-3fc33f7d0a12
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class covers creases in context of smoothness and a proof from the lecture involving Taylor expansion. Algorithms for the numbers of folding operations necessary for an MV string are presented. The class ends with a hypar folding exercise.
 
 **Speaker:** Erik Demaine
+

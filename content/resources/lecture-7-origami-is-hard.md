@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Origami is Hard'
 uid: 74a2c93d-8d35-5de8-de36-b13e46848214
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces universal hinge patterns with the cube and maze gadget. NP-hardness problems involving partition and satisfiability are presented with examples of simple folds, global flat foldability, and disk packing.
 
 **Speaker:** Erik Demaine
+

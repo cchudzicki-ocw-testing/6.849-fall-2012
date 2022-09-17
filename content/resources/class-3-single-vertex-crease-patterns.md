@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 3: Single-Vertex Crease Patterns'
 uid: 87aeeef4-bdff-5c2f-a8d7-af79b364fe4a
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture reviews algorithms for testing flat-foldability for a 1D MV pattern and for single-vertex MV pattern. An exercise walks through determining local flat-foldability, and questions cover higher dimensions and motivations for flat-foldability.
 
 **Speaker:** Erik Demaine
+

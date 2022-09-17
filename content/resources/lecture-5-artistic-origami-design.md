@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Artistic Origami Design'
 uid: 17801e64-62bf-2eb9-9e1c-d98401a591e7
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture presents both the traditional and non-traditional style of origami with many visual examples. The lecture then moves onto applying tree method to design origami, and includes a design example for a crab using TreeMaker.
 
 **Speaker:** Jason Ku
+

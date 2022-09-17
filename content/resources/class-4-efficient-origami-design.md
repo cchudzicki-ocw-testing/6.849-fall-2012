@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 4: Efficient Origami Design'
 uid: 1638c80a-3623-d792-a227-b2dc7c8275ba
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture begins with folded examples produced by TreeMaker and Origamizer. Explanation of the triangulation algorithm, checkerboard folding, the Lang Universal Molecule, and Origamizer tucking molecules are offered.
 
 **Speaker:** Erik Demaine
+

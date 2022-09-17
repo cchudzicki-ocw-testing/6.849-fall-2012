@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the open-problem sessions, and
+  also the benefits and challenges to offering such sessions to the students.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

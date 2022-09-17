@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: HP Model & Interlocked Chains'
 uid: 908888cf-b8e3-ed8d-0923-d306d901a7d4
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture presents the hydrophobicity (HP) model for protein folding and optimization using parity cases. Interlocked 3D chains are presented through a table depicting different cases for combinations of open and closed chains.
 
 **Speaker:** Erik Demaine
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine describes the roles of other individuals
+  who helped shape the structure and content of the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

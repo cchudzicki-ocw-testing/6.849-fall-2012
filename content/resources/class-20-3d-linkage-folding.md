@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 20: 3D Linkage Folding'
 uid: 47cb67d9-d984-0c26-4e6b-fe902bb982f4
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class introduces recent research on flattening fixed-angle chains and addresses flipping of pockets in a polygon. Flaws and omissions in proofs on a bounding number of flips are presented along with a correct version of Bing and Kazarinoff's proof.
 
 **Speaker:** Erik Demaine
+

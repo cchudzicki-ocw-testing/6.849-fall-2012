@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Hinged Dissections'
 uid: e498ed03-5867-42aa-a508-a55e1ace308f
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces adorned chains and slender chains. Proofs involving these definitions, as well as locked polygons and hinged dissections, are presented.
 
 **Speaker:** Erik Demaine
+

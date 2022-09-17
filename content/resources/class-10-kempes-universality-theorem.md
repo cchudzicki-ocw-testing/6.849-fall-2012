@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 10: Kempe''s Universality Theorem'
 uid: ed5db19c-5f8a-8bad-150b-aaf951c1af6b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class presents open problems involving holes, sliding linkages, and generalizations of Kempe. A proof for the semi-algebraic sets for Kempe is presented and various origami axioms are given. The class ends with a continuation of hypar folding.
 
 **Speaker:** Erik Demaine
+

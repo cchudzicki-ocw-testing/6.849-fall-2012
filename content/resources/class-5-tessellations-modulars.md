@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 5: Tessellations & Modulars'
 uid: 224ad4c9-7248-6a2b-b01a-0c2d5a2fb8ef
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces more examples of origami models that use a variety of techniques and media . At the end of the session, the class participates in a folding exercise that uses business cards to make modular cubes.
 
 **Speaker:** Erik Demaine
+

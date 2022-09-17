@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 14: Hinged Dissections'
 uid: b39866c2-884c-e4ee-2d8a-4f77a9d3b8ed
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class focuses on hinged dissections. Examples of hinged dissections and several built, reconfigurable applications are offered Pseudopolynomials, triangulation, and 3D dissections are then discussed.
 
 **Speaker:** Erik Demaine
+

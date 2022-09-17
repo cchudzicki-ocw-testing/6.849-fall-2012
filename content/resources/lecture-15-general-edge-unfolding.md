@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: General & Edge Unfolding'
 uid: b850f671-a0e7-79b2-c326-bdc52ba0e18d
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture begins with describing polyhedron unfolding for convex and nonconvex polygons. Algorithms for shortest path solutions and unfoldings are presented along with how to determine whether an edge unfolding exists.
 
 **Speaker:** Erik Demaine
+

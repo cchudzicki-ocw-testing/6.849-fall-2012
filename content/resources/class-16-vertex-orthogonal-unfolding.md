@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -18,6 +20,7 @@ related_resources_text: 'The following videos were played at the end of the clas
   [http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D](http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 16: Vertex & Orthogonal Unfolding'
 uid: aabe62ee-7020-6106-09e7-ae5bbf0c06e3
 video_files:
@@ -32,3 +35,4 @@ video_metadata:
 **Description:** This class reviews covers topologically convex vertex-ununfoldable cases and unfolding for orthogonal polyhedra, including the approach of heavy-light decomposition. The class also reviews Cauchy's Rigidity Theorem.
 
 **Speaker:** Erik Demaine
+

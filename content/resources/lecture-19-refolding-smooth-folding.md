@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Refolding & Smooth Folding'
 uid: 46012725-f8b4-f66b-c211-0dd510c95f4a
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture begins with a problem involving unfolding and refolding. Examples of smooth foldings and unfoldings are given, followed by a problem involving the wrapping of a sphere and a proof that the wrappings are contractive.
 
 **Speaker:** Erik Demaine
+

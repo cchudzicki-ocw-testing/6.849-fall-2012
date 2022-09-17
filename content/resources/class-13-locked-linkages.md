@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 13: Locked Linkages'
 uid: 24404fa6-c62c-c187-1ac6-2865c5297087
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class reviews Carpenter's Rule and properties of pseudotriangulation. Various proofs are presented, which cover topics including non-zero stresses, linear and equilateral locked trees, and unfolding of 4D chains.
 
 **Speaker:** Erik Demaine
+

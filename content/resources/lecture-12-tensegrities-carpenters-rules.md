@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Tensegrities & Carpenter''s Rules'
 uid: 755f1ebc-0346-366f-1901-495d449ea8a7
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers infinitesimal rigidity and motion, and tensegrity systems as an extension of rigidity theory. The rigidity matrix, equilibrium stress, and duality are introduced, and a proof to Carpenter's Rule Theorem is presented.
 
 **Speaker:** Erik Demaine
+

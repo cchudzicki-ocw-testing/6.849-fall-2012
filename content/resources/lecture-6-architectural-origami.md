@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Architectural Origami'
 uid: 49de8a9f-2085-6cf1-4696-bb6f4dad81bc
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture presents Origamizer, freeform origami, and rigid origami applied to architectural and three-dimensional design contexts. Geometric constraints, demonstration videos, and physical models are shown for each portion of the lecture.
 
 **Speaker:** Tomohiro Tachi
+

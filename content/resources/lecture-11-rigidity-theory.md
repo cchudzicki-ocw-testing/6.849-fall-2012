@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Rigidity Theory'
 uid: 34f3ccaf-b01d-cd7b-542e-fb76fe5fe07b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture begins with a review of linkages and classifying graphs as generically rigid or flexible. Conditions for minimally generic rigid graphs are presented with degree-of-freedom analysis. Proofs of Henneberg and Laman characterizations are given.
 
 **Speaker:** Erik Demaine
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 11: Generic Rigidity'
 uid: 02d98a0c-1ba9-6ee4-f8f4-30099fc5f03c
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class covers how the pebble algorithm works with first a proof of the 2k property, and then 2k-3. Generic rigidity and the running time of the algorithm is discussed, and software simulations running the algorithm are shown.
 
 **Speaker:** Erik Demaine
+

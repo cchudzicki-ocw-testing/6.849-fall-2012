@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 2: Univeresality & Simple Folds'
 uid: a760eef5-b34c-a128-e4fe-880ab57afc47
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture begins with a folding exercise of numerical digits. Questions discussed cover strip folding in the context of efficiency, defining pseudopolynomial, seam placement, and clarifications about simple folds and flat-foldability.
 
 **Speaker:** Erik Demaine
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Fold & One Cut'
 uid: a897cdc7-4509-2424-26a4-81508e985777
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture presents the fold and cut problem, and both the straight skeleton method and disk-packing method. Simple fold and cut is then generalized for folding surface of polyhedra.
 
 **Speaker:** Erik Demaine
+

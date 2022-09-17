@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 17: D-Forms'
 uid: 8143ef4c-796d-579d-e4cb-971caba1b3d9
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This class introduces the pita form and Alexandrov-Pogorelov Theorem. D-forms are discussed with a construction exercise, followed by a proof that D-form surfaces are smooth and are the convex hull of the seam. Rolling belts are addressed at the end.
 
 **Speaker:** Erik Demaine
+
